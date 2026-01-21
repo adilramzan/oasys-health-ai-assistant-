@@ -40,7 +40,5 @@ The app demonstrates:
 
 ---
 
-### 1. Clone Repository
-```bash
-git clone https://github.com/yourusername/oasys-health-ai-assistant.git
+
  
